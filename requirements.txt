@@ -6,3 +6,5 @@ langchain_openai
 langchain_pinecone
 flask
 pypdf
+
+-e .
